@@ -1,360 +1,360 @@
 #: ../client/application/ui/ui_helpers.cpp:63
 msgid "on"
-msgstr ""
+msgstr "켜짐"
 
 #: ../client/application/ui/ui_helpers.cpp:64
 msgid "off"
-msgstr ""
+msgstr "꺼짐"
 
 #: ../client/application/ui/keyboard_view.cpp:106
 msgid "ok"
-msgstr ""
+msgstr "네"
 
 #: ../client/application/game/game.cpp:160
 msgid "Quick pause"
-msgstr ""
+msgstr "빠른 일시중지"
 
 #: ../client/application/game/game.cpp:166
 msgid "Quick pause %s"
-msgstr ""
+msgstr "빠른 일시중지 %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
-msgstr ""
+msgstr "계속"
 
 #: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
-msgstr ""
+msgstr "일시중지"
 
 #: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
-msgstr ""
+msgstr "다시시작"
 
 #: ../client/application/game/ui/pause_ui.cpp:72
 msgid "Exit"
-msgstr ""
+msgstr "나가기"
 
 #: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
-msgstr ""
+msgstr "다시하기"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
-msgstr ""
+msgstr "게임 오버"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
-msgstr ""
+msgstr "응답 구문을 분석하지 못했습니다"
 
 #: ../client/application/game/ui/shared_strings.cpp:11
 msgid "Failed to contact server"
-msgstr ""
+msgstr "서버 연결에 실패했습니다"
 
 #: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
-msgstr ""
+msgstr "공식 래벨"
 
 #: ../client/application/game/ui/shared_strings.cpp:19
 msgid "Community levels"
-msgstr ""
+msgstr "커뮤니티 래벨"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
-msgstr ""
+msgstr "플레이 횟수: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr ""
+msgstr "플레이 시간: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
-msgstr ""
+msgstr "캐주얼"
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "로그인에 실패했습니다!"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:44
 msgid "Downloading level..."
-msgstr ""
+msgstr "래벨 다운로드중..."
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:23
 msgid "Connect to server"
-msgstr ""
+msgstr "서버에 연결"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:55
 msgid "IP:"
-msgstr ""
+msgstr "IP:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:63
 msgid "Port:"
-msgstr ""
+msgstr "복사:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:74
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
-msgstr ""
+msgstr "인터넷으로 다른 방에 연결 #ff0000ff(experimental)"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:83
 msgid "Connect"
-msgstr ""
+msgstr "연결"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:29
 msgid "Enter password"
-msgstr ""
+msgstr "비밀번호 입력"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:32
 msgid "Join"
-msgstr ""
+msgstr "들어가기"
 
 #: ../client/application/game/ui/screens/screen_online_enter_password.cpp:45
 msgid "Password:"
-msgstr ""
+msgstr "비밀번호:"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:83
 msgid "Configure joysticks"
-msgstr ""
+msgstr "조이스틱 설정"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:98
 msgid "Swap"
-msgstr ""
+msgstr "위치 바꾸기"
 
 #: ../client/application/game/ui/screens/screen_configure_touch_joystick.cpp:103
 msgid "Reset"
-msgstr ""
+msgstr "초기화"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:23
 msgid "Select multiplayer type"
-msgstr ""
+msgstr "멀티플레이어 유형 선택"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:27
 msgid "Online multiplayer"
-msgstr ""
+msgstr "온라인 멀티플레이어"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:38
 msgid "Play with people around the world!"
-msgstr ""
+msgstr "전 세계 사람들과 놀아요!"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:53
 msgid "LAN multiplayer"
-msgstr ""
+msgstr "랜 멀티플레이어"
 
 #: ../client/application/game/ui/screens/screen_select_multiplayer_type.cpp:64
 msgid "Play with people on the same network!"
-msgstr ""
+msgstr "같은 네트워크에 있는 사람들과 놀아요!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:42
 msgid "Local multiplayer"
-msgstr ""
+msgstr "로컬 멀티 플레이어"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:45
 msgid "Help"
-msgstr ""
+msgstr "도움말"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:55
 msgid "Local multiplayer supports 2 players connected to the same wifi network."
-msgstr ""
+msgstr "로컬 멀티플레이어는 동일한 와이파이 네트워크에 연결된 2명의 플레이어를 지원합니다."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:56
 msgid "One player must create a room, which the other player joins."
-msgstr ""
+msgstr "한 명의 플레이어가 룸을 만들어야 하며, 다른 한 명의 플레이어가 룸에 합류합니다."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:57
 msgid "The wifi network does not have to be connected to the internet."
-msgstr ""
+msgstr "와이파이 네트워크는 인터넷에 연결할 필요가 없습니다."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:58
 msgid "Connecting to a phone's hotspot should work!"
-msgstr ""
+msgstr "전화기의 핫스팟에 연결하면 됩니다!"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:59
 msgid "Each player need to upload the replay separately to both appear in the online leader board."
-msgstr ""
+msgstr "온라인 리더보드에 나타나려면 각 플레이어가 리플레이를 따로 업로드해야 합니다."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:74
 msgid "Multiplayer help"
-msgstr ""
+msgstr "멀티 플레이어 도움말"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:124
 msgid "Searching for rooms..."
-msgstr ""
+msgstr "방을 찾는중..."
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:185
 msgid "(Incompatible version)"
-msgstr ""
+msgstr "(호환되지 않는 버전)"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:206
 msgid "Create room"
-msgstr ""
+msgstr "방 만들기"
 
 #: ../client/application/game/ui/screens/screen_lan_create_or_join.cpp:208
 msgid "Close room"
-msgstr ""
+msgstr "방 닫기"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:49
 msgid "Configure Ship"
-msgstr ""
+msgstr "함선 설정"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Model"
-msgstr ""
+msgstr "모형"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Trail"
-msgstr ""
+msgstr "꼬리"
 
 #: ../client/application/game/ui/screens/screen_configure_ship.cpp:67
 msgid "Bullets"
-msgstr ""
+msgstr "총알"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:22
 msgid "Upload scores"
-msgstr ""
+msgstr "점수 업로드"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:50
 msgid "Nothing to upload!"
-msgstr ""
+msgstr "업로드할 내용이 없습니다!"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:68
 msgid "Failed to upload replays."
-msgstr ""
+msgstr "리플레이를 업로드하지 못했습니다."
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:70
 msgid "Upload successful"
-msgstr ""
+msgstr "업로드 성공"
 
 #: ../client/application/game/ui/screens/screen_upload_scores.cpp:90
 msgid "Uploading replay for %s."
-msgstr ""
+msgstr "%s에 대한 리플레이을 업로드하는 중입니다."
 
 #: ../client/application/game/ui/screens/screen_career.cpp:39
 msgid "Statistics"
-msgstr ""
+msgstr "통계"
 
 #: ../client/application/game/ui/screens/screen_select_level_of_author.cpp:42
 msgid "Levels by %s"
-msgstr ""
+msgstr "%s별 래벨"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:105
 msgid "Configure keyboard"
-msgstr ""
+msgstr "키보드 설정"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:111
 msgid "Move"
-msgstr ""
+msgstr "이동"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:119
 msgid "Shoot"
-msgstr ""
+msgstr "총을 쏘다"
 
 #: ../client/application/game/ui/screens/screen_configure_keyboard.cpp:180
 msgid "Mouse aim %s"
-msgstr ""
+msgstr "마우스 조준 %s"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:71
 msgid "Checking network..."
-msgstr ""
+msgstr "네트워크를 확인하는 중..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:88
 msgid "Can't play in multiplayer with a symmetric NAT."
-msgstr ""
+msgstr "Symmetric NAT으로는 멀티플레이어로 플레이할 수 없습니다."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:92
 msgid "Failed to connect to the STUN servers."
-msgstr ""
+msgstr "STUN 서버에 연결하지 못했습니다."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:99
 msgid "Authenticating..."
-msgstr ""
+msgstr "인증하는 중..."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:112
 msgid "Need the latest version of the game."
-msgstr ""
+msgstr "최신 버전의 게임이 필요합니다."
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:121
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "인증 실패"
 
 #: ../client/application/game/ui/screens/screen_online_authenticate_and_check_nat.cpp:143
 msgid "Error :("
-msgstr ""
+msgstr "ㅇ..ㅔ..ㄹㅓ... :("
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:159
 msgid "Are you sure you want to report this comment?"
-msgstr ""
+msgstr "이 의견을 보고하시겠습니까?"
 
 #. Shown in a notification after successfully reporting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:161
 msgid "Successfully reported comment"
-msgstr ""
+msgstr "의견을 성공적으로 "
 
 #. Shown in a notification if a comment could not be reported.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:163
 msgid "Error reporting comment"
-msgstr ""
+msgstr "오류 보고 의견"
 
 #. The title of the screen where players delete comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:200
 msgid "Delete comment"
-msgstr ""
+msgstr "의견 삭제"
 
 #. Shown in a notification after successfully deleting a comment.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:202
 msgid "Successfully deleted comment"
-msgstr ""
+msgstr "의견이 성공적으로 삭제됨"
 
 #. Shown in a notification if a comment could not be deleting.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:204
 msgid "Error deleting comment"
-msgstr ""
+msgstr "의견을 삭제하는 중 오류 발생"
 
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:208
 msgid "Are you sure you want to delete this comment?"
-msgstr ""
+msgstr "이 의견을 삭제하시겠습니까?"
 
 #. Used as a placeholder in the textfield where players write their comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:301
 msgid "<Add a comment here>"
-msgstr ""
+msgstr "<여기에 의견 추가>"
 
 #. Displayed in a button. Pressing that button posts the comment that was
 #. written by the player.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:316
 msgid "Comment"
-msgstr ""
+msgstr "주석"
 
 #. Shown in a notification if the player tries to post a comment that is
 #. less than 3 character long.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:322
 msgid "Comment must be at least 3 characters long."
-msgstr ""
+msgstr "코멘트는 최소 3자 이상이어야 합니다."
 
 #. Shown in the title of the screen where the player waits for the comment
 #. to be posted to the server.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:366
 msgid "Posting comment"
-msgstr ""
+msgstr "의견 달기"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:388
 msgid "Comment posted"
-msgstr ""
+msgstr "의견 게시됨"
 
 #. Shown in a notification after a comment was succesfully posted.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:392
 msgid "Failed to post comment"
-msgstr ""
+msgstr "의견을 게시하지 못했습니다."
 
 #. The title of the screen where players report comments.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:158
 msgctxt "report_screen_title"
 msgid "Report comment"
-msgstr ""
+msgstr "보고 의견"
 
 #. The title of the screen where players enter the comment they want to add.
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:293
 msgctxt "add_comment_screen_title"
 msgid "Add comment"
-msgstr ""
+msgstr "의견 추가"
 
 #. Displayed in a button. The button is used in menus asking wether to
 #. confirm an action.
@@ -364,7 +364,7 @@ msgstr ""
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:461
 msgctxt "menu_confirm_action"
 msgid "Yes"
-msgstr ""
+msgstr "네"
 
 #. Displayed in a button. The button is used in menus asking whether to
 #. confirm an action.
@@ -374,727 +374,727 @@ msgstr ""
 #: ../client/application/game/ui/screens/screen_view_and_add_comments.cpp:474
 msgctxt "menu_cancel_action"
 msgid "No"
-msgstr ""
+msgstr "아니오"
 
 #: ../client/application/game/ui/screens/screen_online_list_rooms.cpp:95
 msgid "Refresh"
-msgstr ""
+msgstr "새로 고침"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:22
 msgid "Language Settings"
-msgstr ""
+msgstr "언어 설정"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:26
 msgid "The translations are community provided!"
-msgstr ""
+msgstr "번역은 커뮤니티 제공!"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:35
 msgid "Default language"
-msgstr ""
+msgstr "기본 언어"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:50
 msgid "Help out"
-msgstr ""
+msgstr "도와줘"
 
 #: ../client/application/game/ui/screens/screen_settings_language.cpp:60
 msgid "Contributors"
-msgstr ""
+msgstr "기증자"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:25
 msgid "Africa"
-msgstr ""
+msgstr "아프리카"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:26
 msgid "Asia"
-msgstr ""
+msgstr "아시아"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:27
 msgid "Europe"
-msgstr ""
+msgstr "유럽"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:28
 msgid "North America"
-msgstr ""
+msgstr "북미"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:29
 msgid "Oceania"
-msgstr ""
+msgstr "오세아니아"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:30
 msgid "South America"
-msgstr ""
+msgstr "남미"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "personal"
-msgstr ""
+msgstr "개인"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "region"
-msgstr ""
+msgstr "지역"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:114
 msgid "world"
-msgstr ""
+msgstr "세계"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:120
 msgid "continent"
-msgstr ""
+msgstr "대륙"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
 msgid "1p"
-msgstr ""
+msgstr "1p"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
 msgid "2p"
-msgstr ""
+msgstr "2p"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:153
 msgid "3p"
-msgstr ""
+msgstr "3p"
 
 #: ../client/application/game/ui/screens/screen_view_high_scores.cpp:154
 msgid "4p"
-msgstr ""
+msgstr "4p"
 
 #: ../client/application/game/ui/screens/screen_benchmark.cpp:27
 msgid "Skip"
-msgstr ""
+msgstr "스킵"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:42
 msgid "Single Player"
-msgstr ""
+msgstr "단일 플레이어"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:45
 msgid "Play"
-msgstr ""
+msgstr "플레이"
 
 #: ../client/application/game/ui/screens/screen_main_menu.cpp:63
 msgid "Multiplayer"
-msgstr ""
+msgstr "멀티 플레이"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
 msgid "Joining room"
-msgstr ""
+msgstr "방에 들어가는중"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:296
 msgid "Creating room"
-msgstr ""
+msgstr "방을 만드는중"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:336
 msgid "The room expired"
-msgstr ""
+msgstr "방이 만료됨"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:350
 msgid "Unknown error"
-msgstr ""
+msgstr "알 수 없는 오류"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:365
 msgid "Failed to join room"
-msgstr ""
+msgstr "방에 들어가지 못함"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:379
 msgid "Incorrect password"
-msgstr ""
+msgstr "잘못된 비밀번호입니다"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:382
 msgid "You are already in the room!"
-msgstr ""
+msgstr "당신은 이미 방에 들어가있습니다!"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:385
 msgid "The room does not exist anymore"
-msgstr ""
+msgstr "그 방은 더이상 존재하지 않습니다"
 
 #: ../client/application/game/ui/screens/screen_online_create_or_join_room.cpp:388
 msgid "Room is full"
-msgstr ""
+msgstr "방의 인원수가 다 찼습니다"
 
 #: ../client/application/game/ui/screens/screen_tutorial.cpp:34
 msgid "Tutorial"
-msgstr ""
+msgstr "튜토리얼"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:44
 msgid "Room configuration"
-msgstr ""
+msgstr "방 설정"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:70
 msgid "2 extra characters (optional):"
-msgstr ""
+msgstr "2차 추가(선택사항)"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:103
 msgid "Password (optional):"
-msgstr ""
+msgstr "비밀번호 (선택사항)"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:139
 msgid "Any level"
-msgstr ""
+msgstr "모든 래벨"
 
 #: ../client/application/game/ui/screens/screen_online_configure_room.cpp:187
 msgid "Room name: %s"
-msgstr ""
+msgstr "방 이름: %s"
 
 #: ../client/application/game/ui/screens/screen_informations_music.cpp:29
 msgid "Music"
-msgstr ""
+msgstr "음악"
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:18
 msgid "Connection error"
-msgstr ""
+msgstr "연결 "
 
 #: ../client/application/game/ui/screens/screen_server_connection_closed.cpp:22
 msgid "Lost connection to host"
-msgstr ""
+msgstr "호스트에 의해 연결이 끊김"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:23
 msgid "Audio Settings"
-msgstr ""
+msgstr "오디오 설정"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:36
 msgid "Sound effects"
-msgstr ""
+msgstr "소리 효과"
 
 #: ../client/application/game/ui/screens/screen_settings_audio.cpp:106
 msgid "Visualization"
-msgstr ""
+msgstr "시각화"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:50
 msgid "Failed to read replay."
-msgstr ""
+msgstr "리플레이를 읽지 못함"
 
 #: ../client/application/game/ui/screens/screen_watch_replay.cpp:75
 msgid "Failed to download replay."
-msgstr ""
+msgstr "리플레이 다운로드 실패"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:39
 msgid "Official"
-msgstr ""
+msgstr "공식"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:40
 msgid "Community"
-msgstr ""
+msgstr "커뮤니티"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:42
 msgid "Experimental"
-msgstr ""
+msgstr "실험"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:84
 msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
-msgstr ""
+msgstr "#ffff00ff 공식 #ffffffff 레벨은 내가(JF) 만든 레벨로 메달을 획득할 수 있습니다."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:85
 msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
-msgstr ""
+msgstr "#ffff00ff커뮤니티#ffffffff 레벨은 커뮤니티인 당신이 구축합니다."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:86
 msgid "More info on github.com/jyaif/ppl-utils"
-msgstr ""
+msgstr "github.com/jyaif/ppl-utils에 대한 추가 정보"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:87
 msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
-msgstr ""
+msgstr "#ffff00ff실험#ffffff 레벨은 아직 공개되지 않은 레벨입니다."
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:102
 msgid "About the levels"
-msgstr ""
+msgstr "래벨에 대하여"
 
 #: ../client/application/game/ui/screens/screen_select_single_player_level.cpp:146
 msgid "Experimental levels"
-msgstr ""
+msgstr "실험 래벨"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:32
 msgid "World record: %s"
-msgstr ""
+msgstr "세계 기록: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:36
 msgid "Local best: %s"
-msgstr ""
+msgstr "로컬 베스트: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:73
 msgid "Loading..."
-msgstr ""
+msgstr "로딩중..."
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:109
 msgid "Error reading manifest"
-msgstr ""
+msgstr "매니페스트 읽기 오류"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:114
 msgid "Failed to download manifest"
-msgstr ""
+msgstr "매니페스트를 다운로드하지 못함"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:138
 msgid "by %s"
-msgstr ""
+msgstr "%s 기준"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:237
 msgid "average score: %s"
-msgstr ""
+msgstr "평균점수: %s"
 
 #: ../client/application/game/ui/screens/screen_view_level.cpp:364
 msgid "Experimental level"
-msgstr ""
+msgstr "실험 래벨"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:20
 msgid "Controls Settings"
-msgstr ""
+msgstr "컨트롤 설정"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:27
 msgid "Touchscreen"
-msgstr ""
+msgstr "터치스크린"
 
 #: ../client/application/game/ui/screens/screen_settings_controls.cpp:36
 msgid "Keyboard"
-msgstr ""
+msgstr "키보드"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:37
 msgid "Directed by %s"
-msgstr ""
+msgstr "%s로 지시"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:63
 msgid "Development videos"
-msgstr ""
+msgstr "개발 비디오"
 
 #: ../client/application/game/ui/screens/screen_informations.cpp:107
 msgid "Discord server"
-msgstr ""
+msgstr "디스코드 서버"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:36
 msgid "Settings"
-msgstr ""
+msgstr "설정"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:79
 msgid "Controls"
-msgstr ""
+msgstr "컨트롤"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:88
 msgid "Audio"
-msgstr ""
+msgstr "오디오"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:98
 msgid "Language"
-msgstr ""
+msgstr "언어"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:136
 msgid "Start tutorial"
-msgstr ""
+msgstr "튜토리얼 시작"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:146
 msgid "Launch intro"
-msgstr ""
+msgstr "인트로 시작"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:155
 msgid "Developer mode"
-msgstr ""
+msgstr "개발자 모드"
 
 #: ../client/application/game/ui/screens/screen_settings.cpp:206
 msgid "Vibration %s"
-msgstr ""
+msgstr "진동 %s"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:205
 msgid "Local lobby"
-msgstr ""
+msgstr "로컬 로비"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:208
 msgid "Online lobby"
-msgstr ""
+msgstr "온라인 로비"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:215
 msgid "Ready"
-msgstr ""
+msgstr "준비"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:224
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #: ../client/application/game/ui/screens/screen_multiplayer_lobby.cpp:367
 msgid "Waiting for other players..."
-msgstr ""
+msgstr "다른 플레이어 기다리는중..."
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:25
 msgid "Change colors"
-msgstr ""
+msgstr "색상 변경"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:38
 msgid "Old username:"
-msgstr ""
+msgstr "이전 사용자 이름"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:41
 msgid "New username:"
-msgstr ""
+msgstr "새 사용자 이름"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:55
 msgid "Change"
-msgstr ""
+msgstr "변경"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:73
 msgid "Only change colors! %s"
-msgstr ""
+msgstr "색상만 변경! %s"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:86
 msgid "Username color change"
-msgstr ""
+msgstr "사용자 이름 색상 변경"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:94
 msgid "Username change succesfull"
-msgstr ""
+msgstr "사용자 이름 변경 성공"
 
 #: ../client/application/game/ui/screens/accounts/screen_edit_nickname.cpp:105
 msgid "Failed to update username"
-msgstr ""
+msgstr "사용자 이름 업데이트 실패"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:30
 msgid "Requesting verification email"
-msgstr ""
+msgstr "확인 이메일 요청 중"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:36
 msgid "Verification email sent"
-msgstr ""
+msgstr "확인 이메일이 전송됨"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:38
 msgid "Check your inbox!"
-msgstr ""
+msgstr "받은 편지함을 확인하세요!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:42
 msgid "Failed to resend email"
-msgstr ""
+msgstr "이메일을 다시 보내지 못함"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:53
 msgid "Requesting password reset"
-msgstr ""
+msgstr "비밀번호 재설정 요청 중"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:59
 msgid "Password reset email sent"
-msgstr ""
+msgstr "비밀번호 재설정 이메일 전송"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:66
 msgid "Failed to request password reset"
-msgstr ""
+msgstr "비밀번호 재설정을 요청하지 못함"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:86
 msgid "Sign in"
-msgstr ""
+msgstr "로그인"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:88
 msgid "Email"
-msgstr ""
+msgstr "이메일"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:88
 msgid "Password"
-msgstr ""
+msgstr "비밀번호"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:144
 msgid "Signing in"
-msgstr ""
+msgstr "로그인 중"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:159
 msgid "Successfully signed in!"
-msgstr ""
+msgstr "로그인 성공"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:170
 msgid "Email not verified"
-msgstr ""
+msgstr "이메일 확인이 안 됨"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:173
 msgid "Re-send verification email"
-msgstr ""
+msgstr "확인 이메일 재전송"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:191
 msgid "Request password reset"
-msgstr ""
+msgstr "비밀번호 재설정 요청"
 
 #: ../client/application/game/ui/screens/accounts/screen_signin.cpp:217
 msgid "Reset password"
-msgstr ""
+msgstr "비밀번호 재설정"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:34
 msgid "Synchronizing"
-msgstr ""
+msgstr "동기화"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:83
 msgid "Failed to synchronize."
-msgstr ""
+msgstr "동기화 실패"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:109
 msgid "You've been signed out."
-msgstr ""
+msgstr "로그아웃되었습니다."
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:143
 msgid "Failed to download backup data"
-msgstr ""
+msgstr "백업 데이터를 다운로드하지 못함"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:192
 msgid "Synchronization completed."
-msgstr ""
+msgstr "동기화 완료"
 
 #: ../client/application/game/ui/screens/accounts/screen_synchronize.cpp:193
 msgid "All your medals are here."
-msgstr ""
+msgstr "당신의 메달은 모두 여기 있소."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:22
 msgid "Account"
-msgstr ""
+msgstr "계정"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:25
 msgid "Not signed in"
-msgstr ""
+msgstr "로그인되지 않음"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:29
 msgid "Create an account to set your name and sync your data"
-msgstr ""
+msgstr "이름을 설정하고 데이터를 동기화할 계정 만들기"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:33
 msgid "Register"
-msgstr ""
+msgstr "등록"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:58
 msgid "Privacy Policy"
-msgstr ""
+msgstr "개인 정보 보호 정책"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:100
 msgid "You need to be signed-in to upload scores"
-msgstr ""
+msgstr "스코어를 업로드 하려면 로그인이 필요함"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:103
 msgid "You need to be signed-in to play online"
-msgstr ""
+msgstr "온라인에서 플레이하려면 로그인이 필요함"
 
 #. Error message shown if to the player when they are trying to view
 #. comments while not signed-in.
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:108
 msgid "You need to be signed-in to view comments"
-msgstr ""
+msgstr "의견을 보려면 로그인이 필요함"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_out.cpp:120
 msgid "Your account"
-msgstr ""
+msgstr "당신의 계정"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:23
 msgid "Email is invalid!"
-msgstr ""
+msgstr "이 이메일을 무효야!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:48
 msgid "Too short. Minimum %s characters."
-msgstr ""
+msgstr "너무 짧다. 최소 %s자 이상."
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:55
 msgid "Too long. Maximum %s characters."
-msgstr ""
+msgstr "너무 길어. 최대 %s 문자 "
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:76
 msgid "Register account"
-msgstr ""
+msgstr "계정 등록"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:88
 msgid "Username"
-msgstr ""
+msgstr "사용자 이름"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:88
 msgid "Confirm password"
-msgstr ""
+msgstr "비밀번호 확인"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:89
 msgid "Confirm email"
-msgstr ""
+msgstr "이메일 확인"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:138
 msgid "Registering"
-msgstr ""
+msgstr "등록중"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:145
 msgid "Registration successful."
-msgstr ""
+msgstr "등록 성공"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:147
 msgid "Please check your emails!"
-msgstr ""
+msgstr "이메일좀 확인해 줘!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:151
 msgid "Failed to register"
-msgstr ""
+msgstr "등록 실패"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:183
 msgid "Username (you can put colors in!):"
-msgstr ""
+msgstr "사용자 이름 (색깔을 넣을수 있다!):"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
 msgid "Confirm password:"
-msgstr ""
+msgstr "비밀번호 확인:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
 msgid "Email:"
-msgstr ""
+msgstr "이메일:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:184
 msgid "Confirm email:"
-msgstr ""
+msgstr "이메일 확인:"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:218
 msgid "Passwords do not match!"
-msgstr ""
+msgstr "비밀번호가 일치하지 않습니다!"
 
 #: ../client/application/game/ui/screens/accounts/screen_register.cpp:227
 msgid "Emails do not match!"
-msgstr ""
+msgstr "이메일이 일치하지 않습니다!"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:42
 msgid "Online profile"
-msgstr ""
+msgstr "온라인 프로필"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:68
 msgid "Synchronize"
-msgstr ""
+msgstr "동기화"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:88
 msgid "Sign out"
-msgstr ""
+msgstr "로그아웃"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:100
 msgid "Delete account"
-msgstr ""
+msgstr "계정을 삭제하다"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:115
 msgid "Account deletion"
-msgstr ""
+msgstr "계정 삭제"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:122
 msgid "Account deletion requested."
-msgstr ""
+msgstr "계정삭제 요청"
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:124
 msgid "An email asking for confirmation was sent."
-msgstr ""
+msgstr "확일을 요청하는 이메일이 발송되었습니다."
 
 #: ../client/application/game/ui/screens/accounts/screen_signed_in.cpp:129
 msgid "Failed to request account deletion"
-msgstr ""
+msgstr "계정 삭제를 요청하지 못함"
 
 #: ../client/application/game/ui/views/top_notification_view.cpp:55
 msgid "%sWaiting for other player%s"
-msgstr ""
+msgstr "%s다른 플레이어 대기 중%s"
 
 #: ../client/application/game/ui/views/game_hud.cpp:48
 msgid "Shield: %s"
-msgstr ""
+msgstr "방패: %s"
 
 #: ../client/application/game/ui/views/community_level_selector.cpp:154
 msgid "IN REVIEW"
-msgstr ""
+msgstr "검토 중"
 
 #: ../client/application/game/player_data/player_data_manager.cpp:248
 msgid "New personal best! %s ⇨ %s"
-msgstr ""
+msgstr "새로운 개인 최고 기록! %s ⇨ %s"
 
 #: ../client/application/game/state/game_network_message_parser.cpp:57
 msgid "%s left the game"
-msgstr ""
+msgstr "%s가 게임을 떠남"
 
 #: ../client/application/game/state/game_state.cpp:445
 msgid "N/A"
-msgstr ""
+msgstr "없음"
 
 #: ../client/application/game/state/game_state.cpp:456
 msgid "Accuracy: %s"
-msgstr ""
+msgstr "정확도: %s"
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "Dodge everything and you'll be OK"
-msgstr ""
+msgstr "모든것을 다 먹어라 그러면 괜찮을 것이다."
 
 #: ../client/application/game/levels/game_levels.cpp:83
 msgid "aka Dodge This"
-msgstr ""
+msgstr "일명 회피하기"
 
 #: ../client/application/game/levels/game_levels.cpp:84
 msgid "Green good. Red bad."
-msgstr ""
+msgstr "그린 좋아. 빨강 나빠."
 
 #: ../client/application/game/levels/game_levels.cpp:95
 msgid "Never trust a six-sided polygon"
-msgstr ""
+msgstr "6면 다각형을 절대 믿지 마라"
 
 #: ../client/application/game/levels/game_levels.cpp:96
 msgid "Unrelated to \"Super Hexagon\""
-msgstr ""
+msgstr "\"Super Hexagon\"과 관련이 없음"
 
 #: ../client/application/game/levels/game_levels.cpp:97
 msgid "Choose your own difficulty"
-msgstr ""
+msgstr "자신의 난이도를 선택하라"
 
 #: ../client/application/game/levels/game_levels.cpp:107
 msgid "Euclidean space is overrated"
-msgstr ""
+msgstr "유클리드 공간은 과대평가되었다"
 
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "Just 32 seconds of skills"
-msgstr ""
+msgstr "32초만의 기술"
 
 #: ../client/application/game/levels/game_levels.cpp:118
 msgid "My favorite mode"
-msgstr ""
+msgstr "내가 가장 좋아하는 모드"
 
 #: ../client/application/game/levels/game_levels.cpp:119
 msgid "Survive 32 seconds with this simple trick"
-msgstr ""
+msgstr "이 간단한 트릭으로 32초 생존"
 
 #: ../client/application/game/levels/game_levels.cpp:120
 msgid "\"This level is a joke right?\" - a tester"
-msgstr ""
+msgstr "\"이 정도는 농담이지? 그렇지?\" - 테스터 "
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "RIP GW3:Dimensions"
-msgstr ""
+msgstr "RIP GW3:차원"
 
 #: ../client/application/game/levels/game_levels.cpp:131
 msgid "Previously known as Assault"
-msgstr ""
+msgstr "이전에는 폭행으로 알려져 있었다"
 
 #: ../client/application/game/levels/medals.cpp:8
 msgid "New bronze medal"
-msgstr ""
+msgstr "새로운 동매달"
 
 #: ../client/application/game/levels/medals.cpp:9
 msgid "New silver medal"
-msgstr ""
+msgstr "새로운 은매달"
 
 #: ../client/application/game/levels/medals.cpp:10
 msgid "New gold medal"
-msgstr ""
+msgstr "새로운 금매달"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:8
 msgid "Minimal"
-msgstr ""
+msgstr "미니멀"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:10
 msgid "Minimal (Dark)"
-msgstr ""
+msgstr "미니멀 (다크)"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:12
 msgid "High"
-msgstr ""
+msgstr "높음"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:14
 msgid "High (Dark)"
-msgstr ""
+msgstr "높음(다크)"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:16
 msgid "Compression friendly"
-msgstr ""
+msgstr "압축 친화적"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:17
 msgid "Ultra low 2x"
-msgstr ""
+msgstr "극단적으로 낮음 2x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:19
 msgid "Ultra low 4x"
-msgstr ""
+msgstr "극단적으로 낮음 4x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:21
 msgid "Ultra low 8x"
-msgstr ""
+msgstr "극단적으로 낮음 8x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:23
 msgid "Ultra low 16x"
-msgstr ""
+msgstr "극단적으로 낮음 16x"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:25
 msgid "Ultra low 32x"
-msgstr ""
+msgstr "극단적으로 낮음 32x"
 
